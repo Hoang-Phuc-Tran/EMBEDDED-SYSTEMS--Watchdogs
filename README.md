@@ -1,5 +1,8 @@
 # STM32 Watchdog Demonstration Project
 
+https://github.com/Hoang-Phuc-Tran/EMBEDDED-SYSTEMS--Watchdogs/assets/120700092/fb4fee11-be64-40c8-92fa-9fad5094db25
+
+
 Welcome to the STM32 Watchdog Demonstration Project! In this repository, we introduce a simple yet insightful demonstration that showcases the functionality of the hardware watchdog on the STM32 board.
 
 ## Quick Overview
